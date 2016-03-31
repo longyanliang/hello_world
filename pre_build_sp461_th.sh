@@ -33,5 +33,7 @@ echo "开始编译用户版本"
 #lunch
 #make -j8 2>&1 |tee build.log
 
+echo "let's go"
+
 
 
